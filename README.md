@@ -9,5 +9,9 @@
 **Publications:**  
 - Parametric Optimization on HPC Clusters with Geneva:  
   https://link.springer.com/article/10.1007/s41781-023-00098-6
+  
+**Platforms:**
+- LinkedIn:  
+  https://www.linkedin.com/in/jonas-wessner/
 
 
