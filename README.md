@@ -4,7 +4,7 @@
 **Jonas-Wessner/Jonas-Wessner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 
 - 🌱 I’m currently studying masters degree in computer science in Darmstadt, Germany.
-- 👯 I’m interested in distributed systems and systems programming.
+- 👯 I’m interested in distributed systems, data management and systems programming.
 
 **Publications:**  
 - Parametric Optimization on HPC Clusters with Geneva:  
