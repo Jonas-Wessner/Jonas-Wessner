@@ -13,8 +13,8 @@
 - Speeding up Science Through Parametric Optimization on HPC Clusters  
   https://pos.sissa.it/434/004/
 
-**Platforms:**
-- LinkedIn:  
-  https://www.linkedin.com/in/jonas-wessner/
-
+**Education:**
+- 2022-25 study M.Sc. Computer Science with a focus on distributd systems and data managment at the Technical University of Darmastadt, Germany
+- 2023-24 studied as an exchange student at the University of Hong Kong
+- 2019-22 graduated with B.Sc. Computer Science from the University of Applied Sciences in Darmstadt, Germany
 
